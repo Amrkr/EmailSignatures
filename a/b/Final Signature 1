@@ -2,11 +2,11 @@
 	<div style="float:left; border-left:4px solid #073763; padding-left:20px; margin-left:6px;height:90px">
 		<h1 style="font-size: 20px;margin:2px">Amar Kumar</h1>
 		<h4 style="font-size: 14px;margin:4px">PeopleSoft Fluid | NetSuite Developer</h4>
-		<marquee><ul style="list-style:none;float:left;margin:6px;padding:0px;">
+		<marquee onMouseOver="this.stop()" onMouseOut="this.start()"><ul style="list-style:none;float:left;margin:6px;padding:0px;">
 			
             <li style="float:left;margin-right:10px"><a href="mailto:email"><img style="width: 25px; height:25px;" src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/b/outlook-icon.png" alt="Mail" /></a></li>
 			
-            <li style="float:left;margin-right:10px"><a href="tel:+91 7751009181"><img style="width: 25px; height:25px;" src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/b/Phone-icon (1).png" alt="Cell" /></a></li>
+            <li style="float:left;margin-right:10px"><a href="tel:+91 0000000000"><img style="width: 25px; height:25px;" src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/b/Phone-icon (1).png" alt="Cell" /></a></li>
 			
             <li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/amar-kumar-170531108"><img style="width: 25px; height:25px;" src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/b/linkedin-icon.png" alt="LinkedIn" /></a></li>
 			
