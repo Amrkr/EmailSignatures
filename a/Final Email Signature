@@ -1,0 +1,86 @@
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border-right: 4px solid #073763;">
+      <a href="https://www.smarterp.com">
+        <img
+          style=" margin-right:15px; "
+          src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/smarterp-logo30j.jpg"
+          alt="SmartERP"
+          nosend="1"
+        />
+      </a>
+    </td>
+
+    <td>
+      <table style="border-collapse: collapse; margin-left: 15px">
+        <tr>
+          <td>
+            <h1
+              style="font-family:'Roboto',sans-serif; font-weight:bold; font-size:20px; margin:2px; color:#073763; margin-left: 2px;"
+            >
+              Amar Kumar
+            </h1>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <h4
+              style="font-family:'Roboto',sans-serif; font-weight:bold; font-size:14px; margin:4px; color:#073763;"
+            >
+              PeopleSoft Fluid | NetSuite Developer
+            </h4>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <table>
+              <tr>
+                <td>
+                  <a
+                    href="mailto:amar.kumar@smarterp.com"
+                    style="margin-right:15px; margin-left:2px;"
+                    ><img
+                      src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/envelope_j.jpg"
+                      alt="Mail"
+                      nosend="1"
+                  /></a>
+                </td>
+
+                <td>
+                  <a href="tel:+91 7751009181" style="margin-right:15px;"
+                    ><img
+                      src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/tel.jpg"
+                      alt="Cell"
+                      nosend="1"
+                  /></a>
+                </td>
+
+                <td>
+                  <a
+                    href="https://www.linkedin.com/in/amar-kumar-170531108"
+                    style="margin-right:15px;"
+                    ><img
+                      src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/linkedin_j.jpg"
+                      alt="LinkedIn"
+                      nosend="1"
+                  /></a>
+                </td>
+
+                <td>
+                  <a href="https://github.com/Amrkr"
+                    ><img
+                      src="https://raw.githubusercontent.com/Amrkr/EmailSignatures/master/a/github_j.jpg"
+                      alt="Github"
+                      nosend="1"
+                  /></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
